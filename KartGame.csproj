@@ -85,6 +85,7 @@
     <Compile Include="Assets\Karting\Scripts\KartSystems\KartAudio\EngineAudio.cs" />
     <Compile Include="Assets\Karting\Scripts\KartSystems\KartBounce.cs" />
     <Compile Include="Assets\Karting\Scripts\MinMaxParameters.cs" />
+    <Compile Include="Assets\Karting\Scripts\MyScripts\CameraFollow.cs" />
     <Compile Include="Assets\Karting\Scripts\MyScripts\GuestItem.cs" />
     <Compile Include="Assets\Karting\Scripts\MyScripts\ItemBehaviour.cs" />
     <Compile Include="Assets\Karting\Scripts\Objective.cs" />

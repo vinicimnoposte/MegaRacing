@@ -1,0 +1,9 @@
+mudanças feitas:
+Essencial:
+- Kart; (v)
+- Pista; (v)
+- Itens; (v)
+- Multiplayer Local; (v)
+- Condição de Vitória (v)
+
+Data de Entrega: 7 de Abril, Quarta-feira.

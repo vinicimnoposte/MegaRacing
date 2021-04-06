@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CondicaoVitoria.cs" />
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Backend\TemplateEditorDetection.cs" />
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\BallGame\EmitParticlesOnBallBounce.cs" />
     <Compile Include="Assets\Mod Assets\ModResources\Scripts\Kart\EmitParticlesOnKartBounce.cs" />
